@@ -1,6 +1,6 @@
-<h1 align="center"><p>System<span style="color: red;">.</span>out<span style="color: red;">.</span>printfln<span style="color: red;">(</span><span style="color: #2b00fe;">"Hello World"</span><span style="color: red;">);</span></p></h1>
+<h1 align="center"><p>System<span style="color: red;">.</span>out<span style="color: red;">.</span>println<span style="color: red;">(</span><span style="color: #2b00fe;">"Hello World"</span><span style="color: red;">);</span></p></h1>
 
-<img src="https://lh3.googleusercontent.com/pw/AM-JKLXqbDt_wUplpiPvIFANEm5kmuEA34SNlG_50Eqowal9LZZ0wi9ERAEJXyirTzReaB-_1cEUfVFNiJLhX577UQpcG4ec6HgGBpv3S11Og-RlQvvusqKsOTbeNWIyNAtHOd0aOJTeL6yfIbr2gjPfBNLdsg=w560-h300-no?authuser=0" align="right" height="250">
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLXqbDt_wUplpiPvIFANEm5kmuEA34SNlG_50Eqowal9LZZ0wi9ERAEJXyirTzReaB-_1cEUfVFNiJLhX577UQpcG4ec6HgGBpv3S11Og-RlQvvusqKsOTbeNWIyNAtHOd0aOJTeL6yfIbr2gjPfBNLdsg=w560-h300-no?authuser=0" align="right" width="540">
 
 * 👨🏻‍💻 **Fernando Caetano**
 * 👨🏻‍🦱 (Ele/Dele)
@@ -59,7 +59,7 @@ Estudo atualmente focado em desenvolvimento de sistemas, como **C++**, **C#**, *
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fercaetano/)](https://www.linkedin.com/in/fercaetano)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:fernkndy@gmail.com)](mailto:fernkndy@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/FerdiCayet)](https://twitter.com/FerdiCayet)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram/ferdicayet)](https://www.instagram/ferdicayet)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ferdicayet)](https://www.instagram.com/ferdicayet)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/ferdicayet/)](https://t.me/ferdicayet/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=http://tiny.cc/d7lhuz)](http://tiny.cc/d7lhuz)
 
