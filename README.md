@@ -1,6 +1,6 @@
 <h1 align="center"><p>System<span style="color: red;">.</span>out<span style="color: red;">.</span>println<span style="color: red;">(</span><span style="color: #2b00fe;">"Hello World"</span><span style="color: red;">);</span></p></h1>
 
-<img src="https://lh3.googleusercontent.com/pw/AM-JKLXqbDt_wUplpiPvIFANEm5kmuEA34SNlG_50Eqowal9LZZ0wi9ERAEJXyirTzReaB-_1cEUfVFNiJLhX577UQpcG4ec6HgGBpv3S11Og-RlQvvusqKsOTbeNWIyNAtHOd0aOJTeL6yfIbr2gjPfBNLdsg=w560-h300-no?authuser=0" align="right" width="540">
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLXqbDt_wUplpiPvIFANEm5kmuEA34SNlG_50Eqowal9LZZ0wi9ERAEJXyirTzReaB-_1cEUfVFNiJLhX577UQpcG4ec6HgGBpv3S11Og-RlQvvusqKsOTbeNWIyNAtHOd0aOJTeL6yfIbr2gjPfBNLdsg=w560-h300-no?authuser=0" align="right" width="482">
 
 * 👨🏻‍💻 **Fernando Caetano**
 * 👨🏻‍🦱 (Ele/Dele)
@@ -24,7 +24,7 @@ Estudo atualmente focado em desenvolvimento de sistemas, como **C++**, **C#**, *
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/tutorial/java/index.html)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)](https://www.csstutorial.net/)
 [![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
 [![C#](https://img.shields.io/badge/C%23-65008F?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
