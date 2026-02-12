@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando_Caetano-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fercaetano/)
 [![Mail](https://img.shields.io/badge/Gmail-fernkndy@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:fernkndy@gmail.com?subject=Olá!)
 
-💻 Desenvolvedor Fullstack apaixonado por criar experiências acessíveis e modernas com React, TypeScript.
+💻 Desenvolvedor Fullstack apaixonado por criar experiências acessíveis e modernas com React e TypeScript.
 
 - 👨🏻‍💻 Trabalhando em projetos pessoais para evoluir tecnicamente.
 - 🧏🏻‍♂️ Tenho orgulho de ser surdo e usuário de [Libras](https://www.libras.com.br/).
@@ -17,7 +17,6 @@
 import FullstackDeveloper from './ferdicayet';
 
 class FernandoCaetano extends FullstackDeveloper {
-  
   mainStack = {
     languages: ['JavaScript', 'TypeScript', 'Python', 'Java', 'SQL'],
     frontend: ['React.js', 'Tailwind CSS', 'Acessibilidade Web (ARIA)'],
